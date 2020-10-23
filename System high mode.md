@@ -1,0 +1,1 @@
+user must have valid security clearance for all information processed by system, access approval for all infomration processed by the system, and a valid need to know for some, but not necessairly all.

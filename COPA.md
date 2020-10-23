@@ -1,0 +1,1 @@
+California Online Privacy Act - display privacy policy

@@ -1,0 +1,1 @@
+Series of processes that removes data from a system or media while ensuring that the data is unnrecoverable by any means (not readily recoverable) not recoverable by forensic tools

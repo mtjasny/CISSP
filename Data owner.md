@@ -1,0 +1,1 @@
+Ultimate responsibility for the data belonging to an organization - typically CEO, President, or another Senior employee

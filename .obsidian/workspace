@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "8c238d7ac421303e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7133fc813f93d955",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Layer 3 Protocols.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d59d69abb3b75bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b6b305bb433d0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82fbaefee3fd5fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea9b6601f0cff453",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303
+  },
+  "right": {
+    "id": "ab4313211a4092ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "02616f1e1db1c563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e047aaecf29146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Layer 3 Protocols.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Laye 4 Protocols.md",
+    "Layer 5 Protocols.md",
+    "Layer 6 Protocols.md",
+    "Layer 7 Protocols.md",
+    "SMTP.md",
+    "EAP-TLS.md",
+    "iSCSI.md",
+    "IPSec.md",
+    "L2TP.md"
+  ]
+}

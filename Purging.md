@@ -1,0 +1,1 @@
+More intensive form of [[Clearing]] for reuse in lower security areas. Assurance that data can not be recovered even with extrordinary effort.

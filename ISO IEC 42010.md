@@ -1,0 +1,1 @@
+standardizing the use of system architecture so that product developers don't have to improvise and come up with their own individual approaches. Better quality, interoperability, extensibility, portability, and security.

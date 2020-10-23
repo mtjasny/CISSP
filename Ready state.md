@@ -1,0 +1,1 @@
+process is prepared to be executed but the CPU is not available

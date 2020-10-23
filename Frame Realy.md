@@ -1,0 +1,1 @@
+Mulitple PVCs. Packet switching. Provides Commited Information Rate (CIR). Requires DTE/DCE at each connection pooint. DTE - provides access to FR / DCE (provider supplied) - transmits data over network

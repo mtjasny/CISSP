@@ -3,3 +3,4 @@ PPTP - Microsoft Protocol
 PPTP works in IP networks
 [[Data Link Layer]] protocol
 
+Initial packets sent in plaintext (potentially: username and hashed password)

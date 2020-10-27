@@ -1,0 +1,2 @@
+to exchange user, resourece, and service provisioning information 
+Used to genreate provisioning requests across multiple companies for the purpose of the secure and quick setup of web services and applications

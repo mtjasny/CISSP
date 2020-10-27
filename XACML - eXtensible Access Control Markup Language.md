@@ -1,0 +1,1 @@
+Allows two or more orgaizations to share application security policies based upon their trust model

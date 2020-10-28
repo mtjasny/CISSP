@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OpenID.md",
+            "file": "LDAP.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenID.md"
+                "file": "LDAP.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "LDAP.md",
+    "Kerberos.md",
+    "TACACS+.md",
+    "RADIUS.md",
+    "LDAP distinguished name.md",
+    "MAC - Mandatory Access Control.md",
     "Untitled.md",
-    "SPML - Service Provisioning Markup Language.md",
-    "Ready state.md",
-    "802.11ac.md",
-    "PPP.md",
-    "EAP-TLS.md",
-    "T3.md",
-    "PPTP.md",
-    "L2TP.md",
-    "LEAP.md"
+    "SAML - Security Assertion Markup Language.md",
+    "KDC.md",
+    "OpenID.md"
   ]
 }

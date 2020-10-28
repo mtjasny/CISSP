@@ -1,0 +1,1 @@
+Single point of failure - if compromised attacker can impersonate any user

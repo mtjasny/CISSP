@@ -14,3 +14,6 @@ authentication, attribute, authorization
 SAML bindings - how to embed SAML messages within messaging/communication protocol (SOAP, HTTP)
 
 SAML profiles:  how SAML messages, assertions, protocols be implemented in use cases - e.g. how to use it for [[SSO]] environment across multiple web applications
+Doesn't provide full set of AAA
+
+SAML doesn't have security mode and relies on [[TLS]]

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LDAP.md",
+            "file": "OVAL.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 289
   },
   "right": {
     "id": "ab4313211a4092ea",
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDAP.md"
+                "file": "OVAL.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "OVAL.md",
+    "Untitled 1.md",
+    "Fagan.md",
+    "Untitled.md",
+    "SMTP.md",
     "LDAP.md",
     "Kerberos.md",
     "TACACS+.md",
     "RADIUS.md",
-    "LDAP distinguished name.md",
-    "MAC - Mandatory Access Control.md",
-    "Untitled.md",
-    "SAML - Security Assertion Markup Language.md",
-    "KDC.md",
-    "OpenID.md"
+    "LDAP distinguished name.md"
   ]
 }

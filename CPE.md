@@ -1,0 +1,1 @@
+Common Platform Evaluation part of [[SCAP]] consistent way to refer to operating systems

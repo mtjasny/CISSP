@@ -1,0 +1,1 @@
+occurs when one transaction writes a value to the db that overwrites  avalue needed by tranactionthat have earlier precedence, .... -> read incorrect value 

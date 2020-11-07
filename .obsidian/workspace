@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7133fc813f93d955",
+        "id": "5862362fa9842d67",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OVAL.md",
+            "file": "etc-passwd-shadow.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OVAL.md"
+                "file": "etc-passwd-shadow.md"
               }
             }
           }
@@ -72,19 +72,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "OVAL.md",
     "Untitled 1.md",
-    "Fagan.md",
-    "Untitled.md",
-    "SMTP.md",
-    "LDAP.md",
-    "Kerberos.md",
-    "TACACS+.md",
+    "Release control.md",
+    "CMMI - Level 1 - Initital.md",
+    "CMMI - Level 4 - Managed.md",
+    "evidence admissibality.md",
     "RADIUS.md",
-    "LDAP distinguished name.md"
+    "Untitled.md",
+    "Verification process.md",
+    "Untitled 2.md",
+    "OVAL.md"
   ]
 }

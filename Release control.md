@@ -1,0 +1,1 @@
+Ensures that changes to software include acceptance testing. Manages deployment of code into production.

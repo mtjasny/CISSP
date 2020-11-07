@@ -1,0 +1,1 @@
+Strength of the relationships of ethod within one class. High cohesion is good (methods in one class do simillar things)

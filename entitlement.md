@@ -1,0 +1,1 @@
+Priviliges granted to users when an account is first provisioned

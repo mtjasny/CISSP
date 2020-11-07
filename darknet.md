@@ -1,0 +1,1 @@
+Monitored part of network without any hosts (monitored for activity, each activity there should be souspicious)

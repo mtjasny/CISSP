@@ -1,0 +1,1 @@
+when one transaction  reads a value from a db that was written by another tansaction that did not commit

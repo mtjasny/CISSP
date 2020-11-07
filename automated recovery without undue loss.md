@@ -1,0 +1,1 @@
+system can recover itself against one or more types of failures types and also preserve data against loss

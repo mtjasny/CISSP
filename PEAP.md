@@ -1,1 +1,1 @@
-encaplsualtes [[EAP]] in a TLS tuunel
+encaplsualtes [[EAP]] in a TLS tuunel (Protected EAP)

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc-passwd-shadow.md",
+            "file": "CFAA.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "repe"
               }
             }
           }
@@ -48,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 286
   },
   "right": {
     "id": "ab4313211a4092ea",
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc-passwd-shadow.md"
+                "file": "CFAA.md"
               }
             }
           }
@@ -75,15 +75,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Release control.md",
-    "CMMI - Level 1 - Initital.md",
-    "CMMI - Level 4 - Managed.md",
-    "evidence admissibality.md",
-    "RADIUS.md",
     "Untitled.md",
-    "Verification process.md",
-    "Untitled 2.md",
-    "OVAL.md"
+    "automated recovery without undue loss.md",
+    "manual recovery.md",
+    "Sanitization.md",
+    "Purging.md",
+    "Distance-vector routing protocols.md",
+    "Link-state routing protocols.md",
+    "Erasing.md",
+    "Clearing.md",
+    "Layer 3 Protocols.md"
   ]
 }

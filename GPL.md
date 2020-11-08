@@ -1,0 +1,1 @@
+Everything that uses GPL must be GPL

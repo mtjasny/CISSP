@@ -1,0 +1,1 @@
+All administartive laws by federal government

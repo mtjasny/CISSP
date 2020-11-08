@@ -1,1 +1,1 @@
-deletion of files on media
+(basic) deletion of files on media

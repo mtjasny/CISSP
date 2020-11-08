@@ -1,0 +1,1 @@
+128 bit key -> 52 x 16bit keys

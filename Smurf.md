@@ -1,0 +1,1 @@
+[[ICMP]] packet (spoofed broadcast with source of victim)
